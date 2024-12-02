@@ -1,0 +1,2 @@
+# Web Security Frontend Assignment
+ The Role-Based Access Control (RBAC) User Interface allows administrators to manage users, roles, and permissions efficiently. It features user management for creating and assigning roles, role management for defining permissions, and permission management for detailed oversight. The UI is designed for easy navigation, offering table views and modals for seamless interaction. Built with React, it ensures a responsive and intuitive user experience.
